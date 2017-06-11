@@ -12,6 +12,6 @@ class VerifyCsrfToken extends BaseVerifier
      * @var array
      */
     protected $except = [
-       'http://mizero.streamupbox.com/login'
+    //    'http://mizero.streamupbox.com/login'
     ];
 }
